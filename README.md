@@ -11,11 +11,7 @@ You can click the Preview link to take a look at your changes.
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 Diese Arbeit unterliegt den Bestimmungen einer
-[Creative Commons Namensnennung 4.0 International-Lizenz][cc-by].
+[Creative Commons Namensnennung 4.0 International-Lizenz][cc-by-nc].
 
-[![CC BY 4.0][cc-by-image]][cc-by]
-
-[cc-by]: https://creativecommons.org/licenses/by/4.0/deed.de
-[cc-by-image]: https://licensebuttons.net/l/by/4.0/88x31.png
-[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY%20-NC4.0-lightgrey.svg
 https://creativecommons.org/licenses/by-nc/4.0/
