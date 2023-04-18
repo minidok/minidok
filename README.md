@@ -10,7 +10,7 @@ Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 Diese Arbeit unterliegt den Bestimmungen einer
 [Creative Commons Namensnennung 4.0 International-Lizenz][cc-by-nc].
-![by-nc](https://user-images.githubusercontent.com/38112779/232866527-a8ab3400-5eee-4934-b911-453f63a8f0cf.png)
+https://user-images.githubusercontent.com/38112779/232866527-a8ab3400-5eee-4934-b911-453f63a8f0cf.png
 https://creativecommons.org/licenses/by-nc/4.0/
 [cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY%20-NC4.0-lightgrey.svg
 https://creativecommons.org/licenses/by-nc/4.0/
